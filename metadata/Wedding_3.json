@@ -1,0 +1,10 @@
+{
+  "name": "Haldi Ceremony",
+  "description": "Ayush and Mahima's Haldi ceremony",
+  "image": "https://ipfs.io/ipfs/QmSeJuVxvjR6HAppBRr8zX1k8N4f3jo8wd1T62unZyMxLp",
+  "attributes": [{
+    "people": ["Ayush", "Mahima"],
+    "date": "29-11-2021",
+    "location": "Varanasi"
+  }]
+}

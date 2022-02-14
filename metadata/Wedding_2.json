@@ -1,0 +1,10 @@
+{
+  "name": "Cocktail Party",
+  "description": "Ayush and Mahima's coctail party",
+  "image": "https://ipfs.io/ipfs/QmSMeFHgwivgjgtPyQ628ZQFx64eBnTAy1ygkUK1vtgQH7",
+  "attributes": [{
+    "people": ["Ayush", "Mahima"],
+    "date": "27-11-2021",
+    "location": "Varanasi"
+  }]
+}

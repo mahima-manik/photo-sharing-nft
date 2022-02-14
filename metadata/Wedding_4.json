@@ -1,0 +1,10 @@
+{
+  "name": "Wedding Day",
+  "description": "Ayush and Mahima's Wedding day",
+  "image": "https://ipfs.io/ipfs/QmRPBwBTu8mmVE3ukromahCbbJeX6vm3pm4XKoRTREUj61",
+  "attributes": [{
+    "people": ["Ayush", "Mahima"],
+    "date": "29-11-2021",
+    "location": "Varanasi"
+  }]
+}
